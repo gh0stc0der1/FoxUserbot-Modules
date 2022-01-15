@@ -1,2 +1,2 @@
 # FoxUserbot-Modules-
-Modules for FoxUserbot .
+Modules for FoxUserbot.
